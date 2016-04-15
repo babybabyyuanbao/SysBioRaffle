@@ -5,8 +5,8 @@ Raffle app for selecting people from @SysBioChalmers. Runs on MATLAB and uses ra
 
 Developers:
 
-*Avlant Nilsson (@avlant), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology.
+* Avlant Nilsson (@avlant), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology.
 
-*Benjamín J. Sánchez (@BenjaSanchez), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology.
+* Benjamín J. Sánchez (@BenjaSanchez), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology.
 
 Last update: 2016-04-15
